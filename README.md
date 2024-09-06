@@ -1,4 +1,4 @@
-# Handover-imitation
+# HPE - POINT CLOUD
 
 - HOH Dataset Download
 - - Get the dataset from HOH Website : https://github.com/Terascale-All-sensing-Research-Studio/HOHDataset?tab=readme-ov-file

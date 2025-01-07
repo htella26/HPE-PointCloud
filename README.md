@@ -1,5 +1,5 @@
 # Hand Pose Estimation (HPE) in Point Cloud
-
+- - The README is not yet completed (Needs More Work)
 ![Hand Pose Estimation](assets/Subjects_images.png)
 
 - HOH Dataset Download

@@ -1,9 +1,15 @@
-# HPE - POINT CLOUD
+# Hand Pose Estimation (HPE) in Point Cloud
+
+![Hand Pose Estimation](assets/Subjects_images.png)
 
 - HOH Dataset Download
 - - Get the dataset from HOH Website : https://github.com/Terascale-All-sensing-Research-Studio/HOHDataset?tab=readme-ov-file
 - - Put the zip dataset (e.g.01638-46157-S1_pcfiltered.zip) in HOH/pcfiltered folder
 - - run the script `python3 data/HOH/extract_hoh_data.py`
+
+- Dataset Download and Dependencies
+- - Download from the Google Drive using the link: https://drive.google.com/file/d/151iVtflMms-icXmLNNAN8gP10rgjsywh/view?usp=share_link
+- - Put the unzip data (e.g.data.zip) in HPE-POINTCLOUD root directory as HPE-POINTCLOUD/data
 
 - DexYCB Dataset Download
 - - Download MANO models and code (mano_v1_2.zip) from the MANO website : [Mano site](https://mano.is.tue.mpg.de/) and place the file under data/DexYCB/. Unzip with:  
